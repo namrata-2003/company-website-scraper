@@ -37,4 +37,4 @@ Images are downloaded locally and metadata is stored in a CSV file.
 ## How to Run
 ```bash
 pip install requests beautifulsoup4 pandas
-python company_scraper.py
+python scraper.py
